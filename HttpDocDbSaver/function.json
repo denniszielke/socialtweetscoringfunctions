@@ -12,7 +12,7 @@
       "databaseName": "social",
       "collectionName": "goodtweets",
       "createIfNotExists": false,
-      "connection": "dbsocial_DOCUMENTDB",
+      "connection": "twsocialdb_DOCUMENTDB",
       "direction": "out"
     }
   ]

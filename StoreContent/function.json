@@ -17,7 +17,7 @@
       "databaseName": "tweets",
       "collectionName": "social",
       "createIfNotExists": false,
-      "connection": "dzsocialdb_DOCUMENTDB",
+      "connection": "twsocialdb_DOCUMENTDB",
       "direction": "out"
     }
   ]
