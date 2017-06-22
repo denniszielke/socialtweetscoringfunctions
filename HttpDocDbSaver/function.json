@@ -11,7 +11,7 @@
       "name": "outputDocument",
       "databaseName": "social",
       "collectionName": "goodtweets",
-      "createIfNotExists": false,
+      "createIfNotExists": true,
       "connection": "twsocialdb_DOCUMENTDB",
       "direction": "out"
     }
